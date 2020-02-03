@@ -1,0 +1,10 @@
+# school_projects
+School projects over the course of my undergraduate years
+
+Conway's Game of Life - Used Java and Javafx to create a modified verion of Conway's Game of Life.
+
+Java Audio Recorder - Used Java to record audio and save the audio file locally.
+
+Yahtzee game - Command line Yahtzee game that supports up to two players.
+
+Banking System - Command Line ATM machine that checks pin number, and allows access to savings,checking, and loan payment. Loan is based on a predetermined number.
