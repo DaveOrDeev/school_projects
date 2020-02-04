@@ -7,4 +7,11 @@ Java Audio Recorder - Used Java to record audio and save the audio file locally.
 
 Yahtzee game - Command line Yahtzee game that supports up to two players.
 
-Banking System - Command Line ATM machine that checks pin number, and allows access to savings,checking, and loan payment. Loan is based on a predetermined number.
+Banking System - Command Line ATM machine that checks pin number, and allows access to savings,checking, and loan payment. 
+  The atm uses preset numbers regarding loan amount.
+
+Calculator - Simple calculator using Java Swing to create a basic GUI interface for the calculator
+
+Movie Database - Used MySQL to create a databse, then used java to send information from an Excel file into the databse. From there we 
+  ran preset queries on the database.
+
